@@ -15,7 +15,7 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 16px;
-      color: #000;
+      color: #4682b4;
       line-height: 22px;
       }
       h1 {
@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(100,100,200,0.7);
+      background-color: rgba(190,150,200,0.5);
       position: absolute;
       width: 100%;
       height: 100%;
