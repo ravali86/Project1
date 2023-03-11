@@ -39,12 +39,12 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #FAEBE7;
-      box-shadow: 0 0 25px 0 #000;
+      background: #00FF00;
+      box-shadow: 0 0 20px 0 #000;
       }
      .banner {
       position: relative;
-      height: 200xpx;
+      height: 300xpx;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
